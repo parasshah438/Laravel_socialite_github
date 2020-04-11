@@ -9,7 +9,9 @@
 
 ## Laravel Socialite Github Login
 
-Link https://github.com/settings/developers
+Now, You need to required the CLIENT ID and CLIENT SECRET to add social github login button in the laravel web applications. Lets go to https://github.com/settings/developers  and create a project.
+
+Enjoy
 
 
 
